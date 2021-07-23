@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Arvind Khichar
 - 🎓 I am currently looking for software developer job
-- 👀 I’m interested in web development, Android, Artificial Intelligence/Machine Learning, competitive programming
-- 🌱 I’m currently learning Python, Algorithms
-- 🤝 Help me in my journey of understanding Algorithms
+- 👀 I’m interested in web development, Java, Android, Machine Learning & competitive programming
 - 📫 How to raech me nic.arvindkhichar@gmail.com
 
 <!---
